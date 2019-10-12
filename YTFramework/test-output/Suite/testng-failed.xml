@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite]">
+  <test name="Test(failed)">
+    <classes>
+      <class name="org.testing.TestScripts.Test5">
+        <methods>
+          <include name="After"/>
+          <include name="TC5"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Test5 -->
+      <class name="org.testing.TestScripts.Test4">
+        <methods>
+          <include name="After"/>
+          <include name="TC4"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Test4 -->
+      <class name="org.testing.TestScripts.Test2">
+        <methods>
+          <include name="TC2"/>
+          <include name="After"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Test2 -->
+      <class name="org.testing.TestScripts.Test3">
+        <methods>
+          <include name="After"/>
+          <include name="TC3"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Test3 -->
+      <class name="org.testing.TestScripts.Test1">
+        <methods>
+          <include name="After"/>
+          <include name="TC1"/>
+          <include name="Before"/>
+        </methods>
+      </class> <!-- org.testing.TestScripts.Test1 -->
+    </classes>
+  </test> <!-- Test(failed) -->
+</suite> <!-- Failed suite [Suite] -->

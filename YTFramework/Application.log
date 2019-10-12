@@ -1,0 +1,43 @@
+2019-10-12 10:48:22 {Test1} (main:) test1 login successfull
+2019-10-12 10:49:19 {Test2} (main:) test2 login successfull
+2019-10-12 10:50:20 {Test3} (main:) test3 login successfull
+2019-10-12 11:10:37 {Test4} (main:) test4 login successfull
+2019-10-12 11:15:37 {Test4} (main:) test4 login successfull
+2019-10-12 11:18:04 {Test4} (main:) test4 login successfull
+2019-10-12 11:18:09 {Test4} (main:) test4 URL pass
+2019-10-12 11:18:20 {Test4} (main:) test4 Assertion pass
+2019-10-12 11:18:45 {Test4} (main:) test4 videoplayed successfull
+2019-10-12 11:18:47 {Test4} (main:) test4 videoplayed successfull
+2019-10-12 11:20:19 {Test4} (main:) test4 login successfull
+2019-10-12 11:30:30 {Test1} (main:) test1 URL pass
+2019-10-12 11:30:30 {Test1} (main:) test1 login successfull
+2019-10-12 11:30:48 {Test1} (main:) test1 Assertion pass
+2019-10-12 11:30:48 {Test1} (main:) test1 trending click successfull
+2019-10-12 11:33:56 {Test1} (main:) test1 URL pass
+2019-10-12 11:33:56 {Test1} (main:) test1 login successfull
+2019-10-12 11:34:17 {Test1} (main:) test1 Assertion pass
+2019-10-12 11:34:18 {Test1} (main:) test1 trending click successfull
+2019-10-12 12:45:32 {Test1} (main:) test1 URL pass
+2019-10-12 12:45:32 {Test1} (main:) test1 login successfull
+2019-10-12 12:45:50 {Test1} (main:) test1 Assertion pass
+2019-10-12 12:45:50 {Test1} (main:) test1 trending click successfull
+2019-10-12 12:46:57 {Test2} (main:) test2 login successfull
+2019-10-12 12:47:08 {Test2} (main:) test2 URL pass
+2019-10-12 12:47:19 {Test2} (main:) test2 Assertion pass
+2019-10-12 12:47:19 {Test2} (main:) test2 Subscription click successfull
+2019-10-12 12:48:32 {Test3} (main:) test3 login successfull
+2019-10-12 12:48:37 {Test3} (main:) test3 URL pass
+2019-10-12 12:48:48 {Test3} (main:) test3 Assertion pass
+2019-10-12 12:48:58 {Test3} (main:) test3 videoplayed successfull
+2019-10-12 12:49:15 {Test3} (main:) test3 video like successfull
+2019-10-12 12:50:25 {Test4} (main:) test4 login successfull
+2019-10-12 12:50:30 {Test4} (main:) test4 URL pass
+2019-10-12 12:50:41 {Test4} (main:) test4 Assertion pass
+2019-10-12 12:51:06 {Test4} (main:) test4 videoplayed successfull
+2019-10-12 12:51:09 {Test4} (main:) test4 videoplayed successfull
+2019-10-12 12:53:55 {Test5} (main:) test5 URL pass
+2019-10-12 12:54:10 {Test5} (main:) test5 Assertion pass
+2019-10-12 12:54:15 {Test5} (main:) test5 login successfull
+2019-10-12 12:54:25 {Test5} (main:) test5 videoplayed successfull
+2019-10-12 12:55:16 {Test5} (main:) test5 guide click successfull
+2019-10-12 12:55:24 {Test5} (main:) test5 history click successfull
